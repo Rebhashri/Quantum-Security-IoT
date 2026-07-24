@@ -1,0 +1,3 @@
+pyserial
+qiskit
+qiskit-ibm-runtime
